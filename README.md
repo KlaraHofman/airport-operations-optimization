@@ -26,4 +26,4 @@ airport-operations-optimization/ │ ├── data/ -> CSV files for parameters
 Python, SimPy, PuLP, Pandas, Matplotlib
 
 ## Author
-[Your Name]
+Klara Hofman
