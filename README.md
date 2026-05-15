@@ -17,6 +17,9 @@ airport-operations-optimization/ │ ├── data/ -> CSV files for parameters
 ├── results/ -> Output metrics and plots
 └── report/ -> Final write-up and slides
 
+Data files:
+- [data/turnaround_parameters.csv](data/turnaround_parameters.csv): baseline process times and variability
+
 
 ## Goals
 - Demonstrate systems thinking and process modeling
