@@ -1,0 +1,5 @@
+process,avg_duration_min,std_dev,parallel_allowed
+disembarking,15,3,no
+cleaning,20,4,yes
+fueling,25,5,yes
+boarding,30,6,no
